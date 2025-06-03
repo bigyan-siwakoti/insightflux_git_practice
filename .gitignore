@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.env
+
+# Log files
+*.log
+*.tmp
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Example of a specific file to ignore (you can uncomment and change if needed)
+# my_secret_api_keys.txt
